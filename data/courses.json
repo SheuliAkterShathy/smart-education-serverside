@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "title": "App Development",
+        "price": 110,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+       "img": "https://img.freepik.com/free-vector/app-development-landing-page-template_23-2148687450.jpg?w=1380&t=st=1666699098~exp=1666699698~hmac=ae191563bbe08414d07de802a94e4ff508e3fd12885826e3ab75a1f031d031f4",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+    {
+        "id": "2",
+        "title": "Web Development",
+        "price": 210,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+       "img": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=1380&t=st=1666699387~exp=1666699987~hmac=819f726b840076c90dde440f3df5f8ff9151cc574379d18bb63abfe6b4187623",
+        "rating": {
+          "rate": 5,
+          "count": 320
+        }
+      },
+    {
+        "id": "3",
+        "title": "Digital Marketing",
+        "price": 90,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+       "img": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=1380&t=st=1666699509~exp=1666700109~hmac=4223a3989c270d85db9e60bd8504527a85a98fbc515ef5cb825b4fd27b211e70",
+        "rating": {
+          "rate": 4.9,
+          "count": 220
+        }
+      },
+    {
+        "id": "4",
+        "title": "Graphics Design",
+        "price": 200,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+       "img": "https://img.freepik.com/free-vector/cartoon-graphic-design-landing-page_52683-70881.jpg?w=1480&t=st=1666699609~exp=1666700209~hmac=1ffc6b8aef57a68cd194ea82c72d276611debff4c239d27fa552405fdffea78c",
+        "rating": {
+          "rate": 4.5,
+          "count": 210
+        }
+      },
+    {
+        "id": "5",
+        "title": "Social Media Marketing",
+        "price": 180,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+       "img": "https://img.freepik.com/free-vector/social-media-marketing-viral-mms-isometric_107791-311.jpg?w=1380&t=st=1666699745~exp=1666700345~hmac=85aeef85beb4fa4ce7cddae76e86b4bd6858390ade234fb29763bc764b0757ef",
+        "rating": {
+          "rate": 4.8,
+          "count": 120
+        }
+      },
+    {
+        "id": "6",
+        "title": "Addvanced Javascript",
+        "price": 150,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+       "img": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1060&t=st=1666699884~exp=1666700484~hmac=0f7f7345658c34a9e8f81d79f0ffdbfd90876724b4938f047a2e256c99e26e98",
+        "rating": {
+          "rate": 4.4,
+          "count": 300
+        }
+      }
+]
